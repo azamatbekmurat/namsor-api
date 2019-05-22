@@ -1,0 +1,10 @@
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\bin\Debug\NamsorAppV1.exe.config
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\bin\Debug\NamsorAppV1.exe
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\bin\Debug\NamsorAppV1.pdb
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\obj\Debug\NamsorAppV1.csprojAssemblyReference.cache
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\obj\Debug\NamsorAppV1.csproj.CoreCompileInputs.cache
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\obj\Debug\NamsorAppV1.exe
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\obj\Debug\NamsorAppV1.pdb
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t430\Desktop\C#\NamsorAppV1\NamsorAppV1\obj\Debug\NamsorAppV1.csproj.CopyComplete
