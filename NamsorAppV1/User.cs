@@ -8,12 +8,12 @@ namespace NamsorAppV1
 {
     class User
     {
-        public User(String fullName)
+        public User(string fullName)
         {
             string[] parts = fullName.Split(',');
             if (parts.Length != 2)
             {
-                throw new ArgumentException("Unexpected entry: %s", fullName);
+                throw new ArgumentException("Unexpected entry: {0}", fullName);
             }
             FirstName = parts[0].Trim();
             LastName = parts[1].Trim();
@@ -25,7 +25,7 @@ namespace NamsorAppV1
 
         public override string ToString()
         {
-            return String.Format("{0}, {1}, {2}", FirstName, LastName, Gender);
+            return string.Format("{0}, {1}, {2}", FirstName, LastName, Gender);
         }
 
     }
