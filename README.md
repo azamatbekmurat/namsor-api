@@ -6,7 +6,7 @@
 
 ## Project Description
 
-    An application takes input file with the list of name, makes an API call, retrieves the list of users with the their gender
+This is command-line application that was built with Console App of .NET Framework. An application takes input file with the list of name, makes an API call, retrieves the list of users with the their gender
 
 ## Setup/Installation Instructions
 
